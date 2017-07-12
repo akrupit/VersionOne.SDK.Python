@@ -1,5 +1,5 @@
 # VersionOne Python SDK #
-example change...
+my change for day 2...
 The VersionOne Python SDK is an open-source and community supported client for the VersionOne API.
 
 As an open-sourced and community supported project, the VersionOne Python SDK is not formally supported by VersionOne.
